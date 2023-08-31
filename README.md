@@ -1,6 +1,7 @@
 
-![banner](https://media.giphy.com/media/H1MZxY4QIMtCbOiOrV/giphy-downsized-large.gif)
+<img src="https://images.unsplash.com/photo-1642104704074-907c0698cbd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80"/>
 
+##
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=500&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;My+name+is+Arthur+Tran;Nice+to+meet+you" alt="Typing SVG" />
 </h1>
