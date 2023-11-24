@@ -32,7 +32,7 @@ Passionate in developing smart contracts and dApps using Solidity, tools like Tr
 ## 🔥 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,ts,react,html,css,nodejs,golang,solidity,git,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=java,ts,react,html,css,nodejs,golang,solidity,git,kubernetes,docker,python" />
   </a>
 </p>
 
