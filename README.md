@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/RabbitMQ-212427?style=flat-square" />
   <img src="https://img.shields.io/badge/Docker-212427?style=flat-square" />
   <br />
-  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-3ecf8e?style=flat-square&labelColor=212427" />
 </p>
 
 <br />
