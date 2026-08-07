@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/MySQL-212427?style=flat-square" />
   <img src="https://img.shields.io/badge/RabbitMQ-212427?style=flat-square" />
   <img src="https://img.shields.io/badge/Docker-212427?style=flat-square" />
-  <br />
 </p>
 
 <br />
